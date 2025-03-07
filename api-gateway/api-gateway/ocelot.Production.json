@@ -1,0 +1,156 @@
+{
+  "Routes": [
+    {
+      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamPathTemplate": "/api/register",
+      "DownstreamPathTemplate": "/api/v1/register",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamPathTemplate": "/api/login",
+      "DownstreamPathTemplate": "/api/v1/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "roles",
+      "UpstreamPathTemplate": "/api/roles",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/roles",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "claims",
+      "UpstreamPathTemplate": "/api/claims",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/claims",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "users",
+      "UpstreamPathTemplate": "/api/users",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/users",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "zones",
+      "UpstreamPathTemplate": "/api/zones",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/zones",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "state",
+      "UpstreamPathTemplate": "/api/state",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/state",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "profile",
+      "UpstreamPathTemplate": "/api/profile",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/profile",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/user",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user/{id}",
+      "UpstreamHttpMethod": [ "Delete" , "Get" ],
+      "DownstreamPathTemplate": "/api/v1/user/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user/roles",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/user/roles",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/role/claims",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/role/claims",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "identity",
+          "Port": 5098
+        }
+      ]
+    }
+  ],
+  "Aggregates": [
+    {
+      "UpstreamPathTemplate": "/api/admin/user",
+      "RouteKeys": [ "roles", "claims", "users", "zones", "state" ],
+      "Aggregator": "PageAggregator"
+    },
+    {
+      "UpstreamPathTemplate": "/api/admin/role",
+      "RouteKeys": [ "roles", "claims" ],
+      "Aggregator": "PageAggregator"
+    }
+  ]
+}

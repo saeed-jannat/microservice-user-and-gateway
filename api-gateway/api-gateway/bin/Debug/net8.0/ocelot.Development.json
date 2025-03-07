@@ -1,0 +1,455 @@
+{
+  "Routes": [
+    {
+      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamPathTemplate": "/api/auth/register",
+      "DownstreamPathTemplate": "/api/v1/register",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamHttpMethod": [ "Post" ],
+      "UpstreamPathTemplate": "/api/auth/login",
+      "DownstreamPathTemplate": "/api/v1/auth/login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "profile",
+      "UpstreamPathTemplate": "/api/auth/profile",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/auth/profile",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "roles",
+      "UpstreamPathTemplate": "/api/role",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/role",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+
+      "UpstreamPathTemplate": "/api/role",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/role",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ],
+      "DelegatingHandlers": [ "RoleHandler" ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/role/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/role/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ],
+      "DelegatingHandlers": [ "RoleHandler" ]
+    },
+    {
+      "Key": "claims",
+      "UpstreamPathTemplate": "/api/claim",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/claim",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/claim",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/claim",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/claim/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/claim/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "users",
+      "UpstreamPathTemplate": "/api/user",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/user",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/user",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user/{id}",
+      "UpstreamHttpMethod": [ "Delete", "Get" ],
+      "DownstreamPathTemplate": "/api/v1/user/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "organizations",
+      "UpstreamPathTemplate": "/api/organization",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/organization",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/organization",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/organization",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/organization/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/organization/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "Key": "zones",
+      "UpstreamPathTemplate": "/api/zone",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/v1/zone",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/zone",
+      "UpstreamHttpMethod": [ "Post" , "Put" ],
+      "DownstreamPathTemplate": "/api/v1/zone",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/zone/{id}",
+      "UpstreamHttpMethod": [ "Get" , "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/zone/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/user/role/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/user/role/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/role/claims/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/role/claims/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5098
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/building",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "owner",
+      "UpstreamPathTemplate": "/api/building/owner/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/owner/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/owner",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/owner",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/owner/{buid}/{fileid}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/owner/{buid}/{fileid}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "additional",
+      "UpstreamPathTemplate": "/api/building/additional/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/additional/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/additional",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/additional",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "map",
+      "UpstreamPathTemplate": "/api/building/map/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/map/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/map/polygon",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/map/polygon",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/map/polygon/{buid}/{radif}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/v1/map/polygon/{buid}/{radif}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "land",
+      "UpstreamPathTemplate": "/api/building/land/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/land/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/land",
+      "UpstreamHttpMethod": [ "Post", "Put" ],
+      "DownstreamPathTemplate": "/api/v1/land",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/land/usage-type/{buid}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/land/usage-type/{buid}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/land/usage-type",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/v1/land/usage-type",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "inqueries",
+      "UpstreamPathTemplate": "/api/building/inqueries/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/building/inqueries/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "buildingDetails",
+      "UpstreamPathTemplate": "/api/building/property/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/building/property/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/property",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/v1/building/property",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    },
+    {
+      "Key": "supervisor",
+      "UpstreamPathTemplate": "/api/building/supervisor/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/v1/building/supervisor/{id}",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5156
+        }
+      ]
+    }
+  ],
+  "Aggregates": [
+    {
+      "UpstreamPathTemplate": "/api/admin/user",
+      "UpstreamHttpMethod": [ "GET" ],
+      "RouteKeys": [ "roles", "claims", "users", "organizations", "zones" ],
+      "Aggregator": "AdminPageAggregator"
+    },
+    {
+      "UpstreamPathTemplate": "/api/admin/role",
+      "UpstreamHttpMethod": [ "GET" ],
+      "RouteKeys": [ "roles", "claims" ],
+      "Aggregator": "AdminPageAggregator"
+    },
+    {
+      "UpstreamPathTemplate": "/api/admin/organization",
+      "UpstreamHttpMethod": [ "GET" ],
+      "RouteKeys": [ "organizations", "zones" ],
+      "Aggregator": "AdminPageAggregator"
+    },
+    {
+      "UpstreamPathTemplate": "/api/building/permit/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "RouteKeys": [ "owner", "additional", "map", "land", "inqueries", "buildingDetails", "supervisor" ],
+      "Aggregator": "BuildingPageAggregator"
+    }
+  ]
+}

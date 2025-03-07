@@ -1,0 +1,461 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\saeed\\api\\api-gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\common\\utilities\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\common\\utilities\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\infrastructure\\ocelot\\aggegators\\buildingpageaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\infrastructure\\ocelot\\aggegators\\buildingpageaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\common\\utilities\\downstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\common\\utilities\\downstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\presentation\\midleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\presentation\\midleware\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\infrastructure\\ocelot\\aggegators\\adminpageaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\infrastructure\\ocelot\\aggegators\\adminpageaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\services\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\services\\cookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\ocelot.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\presentation\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\presentation\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\services\\staticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\services\\staticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\interfaces\\istaticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\interfaces\\istaticdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\infrastructure\\ocelot\\delegatinghandlers\\rolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\infrastructure\\ocelot\\delegatinghandlers\\rolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\ocelot.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\interfaces\\icookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\interfaces\\icookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\api-gateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\api-gateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|e:\\saeed\\api\\api-gateway\\api-gateway\\core\\application\\dtos\\coockieclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284834DB-81B7-4852-9713-697125A2CCD6}|api-gateway\\api-gateway.csproj|solutionrelative:api-gateway\\core\\application\\dtos\\coockieclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Common\\Utilities\\Authorization.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Common\\Utilities\\Authorization.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Common\\Utilities\\Authorization.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Common\\Utilities\\Authorization.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:44:03.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Action.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Action.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\Action.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Action.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\Action.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:05:14.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ocelot.Development.json",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.Development.json",
+              "RelativeDocumentMoniker": "api-gateway\\ocelot.Development.json",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.Development.json",
+              "RelativeToolTip": "api-gateway\\ocelot.Development.json",
+              "ViewState": "AgIAAOwAAAAAAAAAAAD4v8ABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T06:13:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DownStream.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Common\\Utilities\\DownStream.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Common\\Utilities\\DownStream.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Common\\Utilities\\DownStream.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Common\\Utilities\\DownStream.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:17:51.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ocelot.Production.json",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.Production.json",
+              "RelativeDocumentMoniker": "api-gateway\\ocelot.Production.json",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\ocelot.Production.json",
+              "RelativeToolTip": "api-gateway\\ocelot.Production.json",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAJgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T10:21:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "api-gateway\\appsettings.json",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\appsettings.json",
+              "RelativeToolTip": "api-gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T09:49:58.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticDataService.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Services\\StaticDataService.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\Services\\StaticDataService.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Services\\StaticDataService.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\Services\\StaticDataService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwIcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:59:51.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Role.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\Role.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Role.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:06:19.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPageAggregator.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\Aggegators\\AdminPageAggregator.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Infrastructure\\Ocelot\\Aggegators\\AdminPageAggregator.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\Aggegators\\AdminPageAggregator.cs",
+              "RelativeToolTip": "api-gateway\\Infrastructure\\Ocelot\\Aggegators\\AdminPageAggregator.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAEwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:59:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Presentation\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Presentation\\Controllers\\SettingController.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Presentation\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "api-gateway\\Presentation\\Controllers\\SettingController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:10:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Program.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Program.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Program.cs",
+              "RelativeToolTip": "api-gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:44:53.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingPageAggregator.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\Aggegators\\BuildingPageAggregator.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Infrastructure\\Ocelot\\Aggegators\\BuildingPageAggregator.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\Aggegators\\BuildingPageAggregator.cs",
+              "RelativeToolTip": "api-gateway\\Infrastructure\\Ocelot\\Aggegators\\BuildingPageAggregator.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:03:02.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Dockerfile",
+              "RelativeDocumentMoniker": "api-gateway\\Dockerfile",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Dockerfile",
+              "RelativeToolTip": "api-gateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T06:57:32.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "api-gateway.csproj",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.csproj",
+              "RelativeDocumentMoniker": "api-gateway\\api-gateway.csproj",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.csproj",
+              "RelativeToolTip": "api-gateway\\api-gateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-02T10:59:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Presentation\\Midleware\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Presentation\\Midleware\\AuthMiddleware.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Presentation\\Midleware\\AuthMiddleware.cs",
+              "RelativeToolTip": "api-gateway\\Presentation\\Midleware\\AuthMiddleware.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAEwF0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:00:52.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-02T07:00:09.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api-gateway\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api-gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T10:50:19.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\StaticData.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\StaticData.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\StaticData.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T07:49:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleHandler.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\DelegatingHandlers\\RoleHandler.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Infrastructure\\Ocelot\\DelegatingHandlers\\RoleHandler.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Infrastructure\\Ocelot\\DelegatingHandlers\\RoleHandler.cs",
+              "RelativeToolTip": "api-gateway\\Infrastructure\\Ocelot\\DelegatingHandlers\\RoleHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:24:28.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IStaticDataService.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Interfaces\\IStaticDataService.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\Interfaces\\IStaticDataService.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Interfaces\\IStaticDataService.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\Interfaces\\IStaticDataService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:25:20.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cookie.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Services\\Cookie.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\Services\\Cookie.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Services\\Cookie.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\Services\\Cookie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:21:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICookie.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Interfaces\\ICookie.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\Interfaces\\ICookie.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\Interfaces\\ICookie.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\Interfaces\\ICookie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:21:11.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Claim.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\Claim.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Claim.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:06:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CoockieClaim.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\CoockieClaim.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\CoockieClaim.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\CoockieClaim.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\CoockieClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:06:44.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\DTO.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\DTO.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\DTO.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:06:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Data.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Data.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Core\\Application\\DTOs\\Data.cs",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\Core\\Application\\DTOs\\Data.cs",
+              "RelativeToolTip": "api-gateway\\Core\\Application\\DTOs\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:04:20.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "api-gateway.http",
+              "DocumentMoniker": "E:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.http",
+              "RelativeDocumentMoniker": "api-gateway\\api-gateway.http",
+              "ToolTip": "E:\\saeed\\api\\api-gateway\\api-gateway\\api-gateway.http",
+              "RelativeToolTip": "api-gateway\\api-gateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-01T07:50:32.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

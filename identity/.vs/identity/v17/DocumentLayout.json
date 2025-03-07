@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\application\\services\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\application\\services\\dateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\application\\services\\initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\application\\services\\initialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\application\\interfaces\\iinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\application\\interfaces\\iinitialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\infrastructure\\data\\silbargbaseidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\infrastructure\\data\\silbargbaseidentitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\userroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\userroleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\userparentchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\userparentchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\roleparentchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\roleparentchild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\accessibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\accessibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\saeed\\api\\identity\\identity\\Models\\SilbargBaseIdentityContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\resourcemodel\\claim1resourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\resourcemodel\\claim1resourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\application\\services\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\application\\services\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\loginbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\loginbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\createclaimbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\createclaimbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\organizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\controllers\\zonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\controllers\\zonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\organizationbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\organizationbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\resourcemodel\\claimresourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\resourcemodel\\claimresourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\createuserbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\createuserbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\userrolebindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\userrolebindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\domain\\entities\\claimyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\domain\\entities\\claimyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\presentation\\dtos\\bindingmodel\\userbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\presentation\\dtos\\bindingmodel\\userbindingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|c:\\users\\mdr\\desktop\\microservice\\identity\\identity\\core\\application\\dtos\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991CBF27-3883-4F98-967F-6CF00E5F3C38}|identity\\identity.csproj|solutionrelative:identity\\core\\application\\dtos\\staticdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\LoginBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\LoginBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\LoginBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\LoginBindingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:00:26.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserRoleBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\UserRoleBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\UserRoleBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\UserRoleBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\UserRoleBindingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:58:35.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:54:32.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Claim1ResourceModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\ResourceModel\\Claim1ResourceModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\ResourceModel\\Claim1ResourceModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\ResourceModel\\Claim1ResourceModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\ResourceModel\\Claim1ResourceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:47:54.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateClaimBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\CreateClaimBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\CreateClaimBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\CreateClaimBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\CreateClaimBindingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:47:15.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Zone.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Zone.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Zone.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Zone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:46:18.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Year.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Year.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Year.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Year.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Year.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:46:05.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserRoleClaim.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\UserRoleClaim.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserRoleClaim.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\UserRoleClaim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:50.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Program.cs",
+              "RelativeDocumentMoniker": "identity\\Program.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Program.cs",
+              "RelativeToolTip": "identity\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:28:17.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\appsettings.json",
+              "RelativeDocumentMoniker": "identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\appsettings.json",
+              "RelativeToolTip": "identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T05:19:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClaimResourceModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\ResourceModel\\ClaimResourceModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\ResourceModel\\ClaimResourceModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\ResourceModel\\ClaimResourceModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\ResourceModel\\ClaimResourceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:02:48.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrganizationBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\OrganizationBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\OrganizationBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\OrganizationBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\OrganizationBindingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:05:36.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IInitialize.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Interfaces\\IInitialize.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Application\\Interfaces\\IInitialize.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Interfaces\\IInitialize.cs",
+              "RelativeToolTip": "identity\\Core\\Application\\Interfaces\\IInitialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:56:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateService.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\DateService.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Application\\Services\\DateService.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\DateService.cs",
+              "RelativeToolTip": "identity\\Core\\Application\\Services\\DateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:19:49.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserRole.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:35.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserParentChild.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserParentChild.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\UserParentChild.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\UserParentChild.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\UserParentChild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:22.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:12.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleParentChild.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\RoleParentChild.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\RoleParentChild.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\RoleParentChild.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\RoleParentChild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:45:01.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:44:50.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Organization.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Organization.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Organization.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:44:43.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClaimYear.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\ClaimYear.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\ClaimYear.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\ClaimYear.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\ClaimYear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:44:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Claim.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Claim.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Claim.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Claim.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:44:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SilbargBaseIdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Infrastructure\\Data\\SilbargBaseIdentityContext.cs",
+              "RelativeDocumentMoniker": "identity\\Infrastructure\\Data\\SilbargBaseIdentityContext.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Infrastructure\\Data\\SilbargBaseIdentityContext.cs",
+              "RelativeToolTip": "identity\\Infrastructure\\Data\\SilbargBaseIdentityContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:43:41.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Accessibility.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Accessibility.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Domain\\Entities\\Accessibility.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Domain\\Entities\\Accessibility.cs",
+              "RelativeToolTip": "identity\\Core\\Domain\\Entities\\Accessibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:43:10.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SilbargBaseIdentityContext.cs",
+              "DocumentMoniker": "E:\\saeed\\api\\identity\\identity\\Models\\SilbargBaseIdentityContext.cs",
+              "ToolTip": "E:\\saeed\\api\\identity\\identity\\Models\\SilbargBaseIdentityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T08:42:04.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\README.txt",
+              "RelativeDocumentMoniker": "identity\\README.txt",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\README.txt",
+              "RelativeToolTip": "identity\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-04T08:38:01.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\ClaimController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\ClaimController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:13:25.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\Token.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Application\\Services\\Token.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\Token.cs",
+              "RelativeToolTip": "identity\\Core\\Application\\Services\\Token.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAApwEcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T08:37:55.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ZoneController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\ZoneController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\ZoneController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\ZoneController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\ZoneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:33:46.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrganizationController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\OrganizationController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\OrganizationController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\OrganizationController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\OrganizationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:13:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwGIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T04:54:30.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Initialize.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\Initialize.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Application\\Services\\Initialize.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\Services\\Initialize.cs",
+              "RelativeToolTip": "identity\\Core\\Application\\Services\\Initialize.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:56:22.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "identity\\Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:14:31.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateUserBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\CreateUserBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\CreateUserBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\CreateUserBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\CreateUserBindingModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:11:22.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserBindingModel.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\UserBindingModel.cs",
+              "RelativeDocumentMoniker": "identity\\Presentation\\Dtos\\BindingModel\\UserBindingModel.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Presentation\\Dtos\\BindingModel\\UserBindingModel.cs",
+              "RelativeToolTip": "identity\\Presentation\\Dtos\\BindingModel\\UserBindingModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:11:01.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StaticData.cs",
+              "DocumentMoniker": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\DTOs\\StaticData.cs",
+              "RelativeDocumentMoniker": "identity\\Core\\Application\\DTOs\\StaticData.cs",
+              "ToolTip": "C:\\Users\\MDR\\Desktop\\microservice\\identity\\identity\\Core\\Application\\DTOs\\StaticData.cs",
+              "RelativeToolTip": "identity\\Core\\Application\\DTOs\\StaticData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:40:50.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

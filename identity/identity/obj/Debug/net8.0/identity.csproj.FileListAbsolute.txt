@@ -1,0 +1,348 @@
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\appsettings.Development.json
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\appsettings.json
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.staticwebassets.endpoints.json
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.exe
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.deps.json
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.runtimeconfig.json
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\identity.pdb
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Azure.Core.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Azure.Identity.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Humanizer.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.ClientModel.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.CodeDom.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Memory.Data.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Text.Json.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\saeed\identity project\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.csproj.AssemblyReference.cache
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.AssemblyInfoInputs.cache
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.AssemblyInfo.cs
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.csproj.CoreCompileInputs.cache
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.MvcApplicationPartsAssemblyInfo.cs
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.MvcApplicationPartsAssemblyInfo.cache
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\scopedcss\bundle\identity.styles.css
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets.build.json
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets.development.json
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.identity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.identity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.build.identity.props
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.identity.props
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.identity.props
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets.pack.json
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.csproj.Up2Date
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.dll
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\refint\identity.dll
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.pdb
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\identity.genruntimeconfig.cache
+E:\saeed\identity project\identity\identity\obj\Debug\net8.0\ref\identity.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\appsettings.Development.json
+E:\saeed\api\identity\identity\bin\Debug\net8.0\appsettings.json
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.staticwebassets.endpoints.json
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.exe
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.deps.json
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.runtimeconfig.json
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\identity.pdb
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Azure.Core.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Azure.Identity.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Humanizer.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.ClientModel.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.CodeDom.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Memory.Data.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Text.Json.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\saeed\api\identity\identity\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.csproj.AssemblyReference.cache
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.GeneratedMSBuildEditorConfig.editorconfig
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.AssemblyInfoInputs.cache
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.AssemblyInfo.cs
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.csproj.CoreCompileInputs.cache
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.MvcApplicationPartsAssemblyInfo.cs
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.MvcApplicationPartsAssemblyInfo.cache
+E:\saeed\api\identity\identity\obj\Debug\net8.0\scopedcss\bundle\identity.styles.css
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets.build.json
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets.development.json
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.identity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.identity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.build.identity.props
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.identity.props
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.identity.props
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets.pack.json
+E:\saeed\api\identity\identity\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.csproj.Up2Date
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.dll
+E:\saeed\api\identity\identity\obj\Debug\net8.0\refint\identity.dll
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.pdb
+E:\saeed\api\identity\identity\obj\Debug\net8.0\identity.genruntimeconfig.cache
+E:\saeed\api\identity\identity\obj\Debug\net8.0\ref\identity.dll

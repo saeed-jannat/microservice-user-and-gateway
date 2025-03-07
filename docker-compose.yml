@@ -1,0 +1,29 @@
+
+services:
+  identity:
+    image: identity
+    build: ./identity/identity
+    ports:
+      - "5098:5098"  
+    networks:
+      - my-network
+    environment:
+      - ASPNETCORE_URLS=http://+:5098  
+
+  api-gateway:
+    image: api-gateway
+    build: ./api-gateway/api-gateway
+    ports:
+      - "8080:8080"  
+    depends_on:
+      - identity
+    environment:
+      - IDENTITY_URL=http://+:5098   
+    networks:
+      - my-network
+    command: >
+      sh -c "dotnet api-gateway.dll" 
+
+networks:
+  my-network:
+    driver: bridge

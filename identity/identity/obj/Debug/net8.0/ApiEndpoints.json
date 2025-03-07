@@ -1,0 +1,556 @@
+[
+  {
+    "ContainingType": "identity.Interface.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/v1/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.LoginBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.AuthController",
+    "Method": "Profile",
+    "RelativePath": "api/v1/Auth/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/v1/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.CreateUserBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ClaimController",
+    "Method": "GetClaims",
+    "RelativePath": "api/v1/Claim",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ClaimController",
+    "Method": "CreateClaim",
+    "RelativePath": "api/v1/Claim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claim",
+        "Type": "identity.Presentation.Models.BindingModel.CreateClaimBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ClaimController",
+    "Method": "UpdateClaim",
+    "RelativePath": "api/v1/Claim",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claim",
+        "Type": "identity.Presentation.Models.BindingModel.CreateClaimBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ClaimController",
+    "Method": "GetClaimById",
+    "RelativePath": "api/v1/Claim/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ClaimController",
+    "Method": "DeleteClaim",
+    "RelativePath": "api/v1/Claim/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.OrganizationController",
+    "Method": "GetOrganizations",
+    "RelativePath": "api/v1/Organization",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.OrganizationController",
+    "Method": "CreateOrganization",
+    "RelativePath": "api/v1/Organization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zone",
+        "Type": "identity.Presentation.Models.BindingModel.OrganizationBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.OrganizationController",
+    "Method": "UpdateOrganization",
+    "RelativePath": "api/v1/Organization",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zone",
+        "Type": "identity.Presentation.Models.BindingModel.OrganizationBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.OrganizationController",
+    "Method": "GetSpecificZone",
+    "RelativePath": "api/v1/Organization/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.OrganizationController",
+    "Method": "DeleteZone",
+    "RelativePath": "api/v1/Organization/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "GetRoles",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "CreateRole",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "identity.Presentation.Models.BindingModel.RoleBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "identity.Presentation.Models.BindingModel.RoleBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/v1/Role/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/v1/Role/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.RoleController",
+    "Method": "RoleClaims",
+    "RelativePath": "api/v1/Role/claims/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.CreateUserBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.CreateUserBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/v1/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/v1/User/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "UserClaim",
+    "RelativePath": "api/v1/User/claim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.UserRoleBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "DeleteUserClaim",
+    "RelativePath": "api/v1/User/claim",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "claimsid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "userroleid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "isrevoked",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "UserClaims",
+    "RelativePath": "api/v1/User/claims",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "UserRole",
+    "RelativePath": "api/v1/User/role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.UserRoleBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "DeleteUserRole",
+    "RelativePath": "api/v1/User/role",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "delete",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "years",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.UserController",
+    "Method": "UserRoles",
+    "RelativePath": "api/v1/User/roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userid",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "pass",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ZoneController",
+    "Method": "Zones",
+    "RelativePath": "api/v1/Zone",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ZoneController",
+    "Method": "create",
+    "RelativePath": "api/v1/Zone",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.CountryDivisionBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ZoneController",
+    "Method": "Edit",
+    "RelativePath": "api/v1/Zone",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "identity.Presentation.Models.BindingModel.CountryDivisionBindingModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ZoneController",
+    "Method": "Zone",
+    "RelativePath": "api/v1/Zone/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "identity.Interface.Controllers.ZoneController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Zone/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

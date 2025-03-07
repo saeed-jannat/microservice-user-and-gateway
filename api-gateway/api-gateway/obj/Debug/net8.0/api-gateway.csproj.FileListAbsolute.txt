@@ -1,0 +1,107 @@
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\appsettings.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\ocelot.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.staticwebassets.endpoints.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.exe
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Ocelot.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\saeed\api gateway\api-gateway\api-gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.dll
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+E:\saeed\api gateway\api-gateway\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\appsettings.Development.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\appsettings.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\ocelot.Development.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\ocelot.Production.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.staticwebassets.endpoints.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.exe
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.deps.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.runtimeconfig.json
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\api-gateway.pdb
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\FluentValidation.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\IPAddressRange.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Ocelot.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\saeed\api\api-gateway\api-gateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.csproj.AssemblyReference.cache
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfoInputs.cache
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.AssemblyInfo.cs
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.csproj.CoreCompileInputs.cache
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cs
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.MvcApplicationPartsAssemblyInfo.cache
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\scopedcss\bundle\api-gateway.styles.css
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.build.json
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.development.json
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssets.props
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.api-gateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.build.api-gateway.props
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api-gateway.props
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api-gateway.props
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.pack.json
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gate.DADD0DFD.Up2Date
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.dll
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\refint\api-gateway.dll
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.pdb
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\api-gateway.genruntimeconfig.cache
+E:\saeed\api\api-gateway\api-gateway\obj\Debug\net8.0\ref\api-gateway.dll
