@@ -6,7 +6,7 @@ This repository contains a microservices-based project designed to demonstrate m
 
 2. **API Gateway**: Built using **Ocelot**, this component acts as a single entry point for all incoming requests. It routes requests to the appropriate microservices, handles load balancing, and provides a unified interface for clients. Ocelot's flexibility and configuration-driven approach make it an excellent choice for managing API routing in a microservices environment.
 
-The project is built using **.NET** for the backend services, ensuring high performance and scalability. It leverages **Docker** for containerization, making it easy to deploy and manage the services in different environments. For data storage, the project uses **SQL Server** (or **MongoDB**, depending on your setup) to ensure reliable and efficient data management.
+The project is built using **.NET** for the backend services, ensuring high performance and scalability. It leverages **Docker** for containerization, making it easy to deploy and manage the services in different environments. For data storage, the project uses **SQL Server** to ensure reliable and efficient data management.
 
 Key features of this project include:
 - **Microservices Architecture**: The project is divided into independent services, making it modular and easy to maintain.
