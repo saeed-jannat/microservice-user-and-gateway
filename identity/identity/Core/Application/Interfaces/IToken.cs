@@ -5,7 +5,7 @@ namespace identity.Core.Application.Interfaces
 {
     public interface IToken
     {
-        public Task<string> BuildToken(string username, string pass, int roleid, int zoneid, User user);
-        public ClaimsPrincipal ValidationToken(string token);
+        Task<string> BuildToken(string username, string pass, int roleid, int zoneid, User user);
+        ClaimsPrincipal ValidationToken(string token);
     }
 }
