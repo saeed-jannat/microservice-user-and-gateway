@@ -2,6 +2,6 @@
 {
     public interface IDateService
     {
-        public string ConvertToShamsi(DateTime? date);
+        string ConvertToShamsi(DateTime? date);
     }
 }
