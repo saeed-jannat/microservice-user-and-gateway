@@ -4,11 +4,11 @@ namespace api_gateway.Core.Application.Interfaces
 {
     public interface IStaticDataService
     {
-        public Task<string> InitializeStaticDataService();
-        public void Role(Role role, bool? createEdit,int? delete);
-        public void Claim(Claim claim, int roleId);
+        Task<string> InitializeStaticDataService();
+        void Role(Role role, bool? createEdit,int? delete);
+        void Claim(Claim claim, int roleId);
         //public void GetAllControllersAndActions();
-        public void SetPublicKey(string publickey);
-        public Task<string> GetAllTheClaims();
+        void SetPublicKey(string publickey);
+        Task<string> GetAllTheClaims();
     }
 }
