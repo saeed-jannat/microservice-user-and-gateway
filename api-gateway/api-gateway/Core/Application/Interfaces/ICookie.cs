@@ -2,7 +2,7 @@
 
 namespace api_gateway.Core.Application.Interfaces
 {
-    public interface ICookie
+    interface ICookie
     {
         public ClaimsPrincipal? ValidationToken(string token);
     }
