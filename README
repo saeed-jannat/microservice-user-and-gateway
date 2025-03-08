@@ -27,4 +27,4 @@ Technologies used:
 Whether you're a beginner or an experienced developer, this project provides a practical example of how to design, build, and deploy microservices using modern tools and best practices. Feel free to explore the code, contribute, or use it as a reference for your own projects!
 
 
-The only thing you should do is create tables with the same structure, set up a secret or volume for the private key, and read it from there.(if you wint run the code in docker, otherwise you must be just run the projects)
+The only thing you should do is create tables with the same structure, set up a secret or volume for the private key, and read it from there.(if you want run the code in docker, otherwise you must be just run the projects)
