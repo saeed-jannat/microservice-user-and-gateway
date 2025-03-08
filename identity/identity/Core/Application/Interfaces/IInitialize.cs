@@ -2,7 +2,7 @@
 
 namespace identity.Core.Application.Interfaces
 {
-    public interface IInitialize
+    interface IInitialize
     {
         public Task SendClaimToApiGAteway();
     }
