@@ -1,30 +1,168 @@
+user-service-and-gateway
 
-# user-service-and-gateway
-This repository contains a microservices-based project designed to demonstrate modern backend architecture. The project consists of two main components:
+This repository contains a production-oriented microservices-based backend project designed to demonstrate modern backend architecture, 
+advanced authorization, and real-world access control scenarios commonly used in enterprise systems such as accounting, ERP, and SaaS platforms.
+The project consists of two main components:
 
-1. **User Service**: This service is responsible for handling user-related operations, including authentication, registration,claims,organization,zone,role, and profile management. It ensures secure user data handling and provides endpoints for CRUD operations on user profiles.
+Architecture Overview
+1. User Service
+The User Service is responsible for managing users and a custom-built authorization system implemented entirely from scratch.
 
-2. **API Gateway**: Built using **Ocelot**, this component acts as a single entry point for all incoming requests. It routes requests to the appropriate microservices, handles load balancing, and provides a unified interface for clients. Ocelot's flexibility and configuration-driven approach make it an excellent choice for managing API routing in a microservices environment.
+It handles:
 
-The project is built using **.NET** for the backend services, ensuring high performance and scalability. It leverages **Docker** for containerization, making it easy to deploy and manage the services in different environments. For data storage, the project uses **SQL Server** to ensure reliable and efficient data management.
+Authentication and registration
 
-Key features of this project include:
-- **Microservices Architecture**: The project is divided into independent services, making it modular and easy to maintain.
-- **Ocelot API Gateway**: Centralized request routing and load balancing for improved performance and scalability.
-- **Containerization**: Docker support allows for seamless deployment and scaling across different environments.
-- **Secure Authentication**: The User Service implements secure authentication mechanisms to protect user data.
-- **Scalability**: Designed with scalability in mind, the project can handle increasing loads by scaling individual services.
+Claims and profile management
 
-This project is ideal for developers looking to learn about microservices architecture, API Gateway implementation with Ocelot, and modern backend development practices. It can also serve as a starting point for building scalable and maintainable backend systems.
+Role and permission management
 
-Technologies used:
-- **.NET** for backend development.
-- **Ocelot** for API Gateway functionality.
-- **Docker** for containerization.
-- **SQL Server** for data storage.
-- **JWT** (JSON Web Tokens) for secure authentication.
+Organization, company, and zone separation
 
-Whether you're a beginner or an experienced developer, this project provides a practical example of how to design, build, and deploy microservices using modern tools and best practices. Feel free to explore the code.
+Context-aware access control
 
+This service is designed for multi-tenant systems where access rules vary by company, role, user, and financial year.
 
-The only thing you should do is create tables with the same structure, set up a secret or volume for the private key, and read it from there.(if you want run the code in docker, otherwise you must be just run the projects)
+2. API Gateway
+
+The API Gateway, built using Ocelot, acts as the single entry point for all client requests.
+
+Responsibilities:
+
+Routing requests to appropriate microservices
+
+Centralized authentication handling
+
+Service isolation
+
+Configuration-driven routing for scalability
+
+Ocelot provides a clean and flexible way to manage communication between services in a microservices environment.
+
+Core Features
+🔐 Advanced Authorization System (Built from Scratch)
+
+This project goes far beyond basic Role-Based Access Control (RBAC).
+
+Role & Permission Management
+
+Roles are defined per company
+
+Each role has a set of permissions
+
+Users can be assigned multiple roles
+
+User-Level Permission Overrides
+
+Permissions inherited from roles can be:
+
+Extended
+
+Restricted
+
+Effective permissions are dynamically calculated per user
+
+This allows fine-grained access control at the individual user level.
+
+Context-Based Authorization (Financial Year)
+
+Access is not global
+
+Permissions are evaluated per financial year
+
+A user may have access to one year but be restricted from another
+
+This is especially critical for accounting and financial systems.
+
+Multi-Tenant (Company-Isolated) Access
+
+Each company is fully isolated
+
+Roles, permissions, and users are scoped to a company
+
+Cross-company access is strictly controlled
+
+This design supports real-world multi-tenant SaaS architectures.
+
+🧱 Microservices Architecture
+
+Services are independent and loosely coupled
+
+Clear separation of responsibilities
+
+Scalable and maintainable design
+
+🔑 Secure Authentication
+
+JWT-based authentication
+
+Private keys are stored securely using:
+
+Docker secrets or volumes
+
+No hardcoded secrets
+
+🐳 Containerization
+
+Dockerized services
+
+Easy local and production-like deployments
+
+Infrastructure-friendly setup
+
+🗄 Data Storage
+
+SQL Server
+
+Designed for reliability and performance
+
+Structured schema suitable for enterprise workloads
+
+Technologies Used
+
+.NET / ASP.NET Core
+
+Ocelot (API Gateway)
+
+Docker
+
+SQL Server
+
+JWT (JSON Web Tokens)
+
+Running the Project
+Prerequisites
+
+.NET SDK
+
+Docker (optional)
+
+SQL Server
+
+Setup Instructions
+
+Create database tables using the provided schema
+
+Configure a secret or volume for the JWT private key
+
+Ensure the services read the private key from the configured source
+
+If running without Docker, simply run the projects normally after configuration.
+
+Use Cases
+
+This project is suitable for:
+
+Accounting systems
+
+ERP platforms
+
+Multi-tenant SaaS products
+
+Systems requiring fine-grained authorization
+
+Developers looking to study real-world backend authorization patterns
+
+Notes
+
+This project is not a tutorial-only demo.
+It reflects real authorization challenges commonly found in production systems and demonstrates how they can be solved cleanly using .NET and microservices.
