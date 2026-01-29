@@ -1,11 +1,16 @@
-user-service-and-gateway
+microservice-user-and-gateway
 
-This repository contains a production-oriented microservices-based backend project designed to demonstrate modern backend architecture, 
-advanced authorization, and real-world access control scenarios commonly used in enterprise systems such as accounting, ERP, and SaaS platforms.
-The project consists of two main components:
+This repository contains a production-oriented microservices-based backend project designed to demonstrate modern backend architecture,
+advanced authorization, and real-world access control scenarios commonly used in accounting systems, ERP platforms, and multi-tenant SaaS products.
+
+The project focuses on solving complex authorization problems rather than showcasing a large number of technologies.
 
 Architecture Overview
+
+The system consists of two main components:
+
 1. User Service
+
 The User Service is responsible for managing users and a custom-built authorization system implemented entirely from scratch.
 
 It handles:
@@ -20,13 +25,13 @@ Organization, company, and zone separation
 
 Context-aware access control
 
-This service is designed for multi-tenant systems where access rules vary by company, role, user, and financial year.
+The service is designed for multi-tenant environments, where access rules vary by company, role, user, and financial year.
 
 2. API Gateway
 
 The API Gateway, built using Ocelot, acts as the single entry point for all client requests.
 
-Responsibilities:
+Responsibilities include:
 
 Routing requests to appropriate microservices
 
@@ -36,18 +41,18 @@ Service isolation
 
 Configuration-driven routing for scalability
 
-Ocelot provides a clean and flexible way to manage communication between services in a microservices environment.
+Ocelot provides a clean and flexible approach for managing service-to-service communication in a microservices architecture.
 
 Core Features
 🔐 Advanced Authorization System (Built from Scratch)
 
-This project goes far beyond basic Role-Based Access Control (RBAC).
+This project goes far beyond basic Role-Based Access Control (RBAC) and implements a fine-grained, context-aware authorization model.
 
 Role & Permission Management
 
 Roles are defined per company
 
-Each role has a set of permissions
+Each role has a dedicated set of permissions
 
 Users can be assigned multiple roles
 
@@ -61,31 +66,67 @@ Restricted
 
 Effective permissions are dynamically calculated per user
 
-This allows fine-grained access control at the individual user level.
+This enables fine-grained access control at the individual user level.
 
-Context-Based Authorization (Financial Year)
+🧠 Context-Based Authorization (Financial Year)
 
-Access is not global
+Authorization is not global.
 
 Permissions are evaluated per financial year
 
-A user may have access to one year but be restricted from another
+A user may have access to one year while being restricted from another
 
-This is especially critical for accounting and financial systems.
+This model reflects real-world requirements in accounting and financial systems.
 
-Multi-Tenant (Company-Isolated) Access
+🏢 Multi-Tenant (Company-Isolated) Access
 
 Each company is fully isolated
 
-Roles, permissions, and users are scoped to a company
+Roles, permissions, and users are scoped per company
 
 Cross-company access is strictly controlled
 
 This design supports real-world multi-tenant SaaS architectures.
 
+⚡ Authorization Caching Strategy
+
+To avoid expensive permission resolution on every request, the system includes a custom-built caching mechanism.
+
+Permission Caching
+
+Role permissions are cached immediately after creation
+
+User effective permissions are resolved once and reused
+
+Cached data includes:
+
+Role permissions
+
+User-level permission overrides
+
+Context data (company and financial year)
+
+Cache Invalidation
+
+Cache entries are automatically invalidated and rebuilt when:
+
+Role permissions are modified
+
+User-role assignments change
+
+User-specific permission overrides are updated
+
+Design Considerations
+
+Caching logic is implemented independently of any specific caching technology
+
+Designed to be easily replaceable with a distributed cache (e.g. Redis) without changing core authorization logic
+
+This approach prioritizes correctness, performance, and maintainability.
+
 🧱 Microservices Architecture
 
-Services are independent and loosely coupled
+Independent and loosely coupled services
 
 Clear separation of responsibilities
 
@@ -103,7 +144,7 @@ No hardcoded secrets
 
 🐳 Containerization
 
-Dockerized services
+Fully Dockerized services
 
 Easy local and production-like deployments
 
@@ -158,7 +199,7 @@ ERP platforms
 
 Multi-tenant SaaS products
 
-Systems requiring fine-grained authorization
+Systems requiring fine-grained and context-aware authorization
 
 Developers looking to study real-world backend authorization patterns
 
